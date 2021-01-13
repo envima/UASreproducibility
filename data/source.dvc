@@ -1,0 +1,5 @@
+outs:
+- md5: b5e80878c89312bd1d942be49faf73d7.dir
+  size: 86
+  nfiles: 1
+  path: source
